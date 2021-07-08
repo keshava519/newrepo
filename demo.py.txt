@@ -1,0 +1,10 @@
+class C:
+  pass
+class C:
+  pass
+class C:
+  pass
+class C:
+  pass
+class C:
+  pass
